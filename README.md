@@ -16,6 +16,9 @@ EasyMeal Buddy is a user-friendly app revolutionizing meal planning with persona
 
 ## Project Description:
 
+####  Video Demonstartion link:
+[video_demonstration/video.mp4](video_demonstration/video.mp4)<br />
+
 ####  a. HTML (5 pts) 
 
 ![Basic html](images/01.png)<br />
