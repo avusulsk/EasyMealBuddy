@@ -5,7 +5,7 @@
 
 **Team member-1**: Sai Abhishek Avusula
 **Team member-2**: Mallika Tekula
-**Team member-3**: Bharati Erla
+**Team member-3**: Bharathi Erla
 
 
 ## Overview 
