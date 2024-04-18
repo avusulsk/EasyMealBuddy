@@ -39,9 +39,11 @@ Similarly, in this case user clicks on the breakfast section where we can see th
 
 ![Basic html](images/06.png)<br />
 
-
+When a user searches for a recipe, the results will categorize the recipes into different meal types, such as breakfast, lunch, or dinner. If the user is interested in a breakfast recipe, they can click on the specific recipe to access more details, including ingredients, preparation steps, cooking time, level of difficulty, and any additional information provided about the dish.
 
 ![Basic html](images/07.png)<br />
+
+When a user selects the Scrambled Eggs recipe, they will be presented with a detailed description of the dish, including the required time for preparation. The recipe's difficulty level will be clearly indicated, along with the estimated calorie count per serving. Additionally, the ingredients needed for the recipe will be listed, followed by step-by-step instructions on how to prepare the dish.
 
 
 
