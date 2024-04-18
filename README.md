@@ -37,14 +37,6 @@ That Culinary Sorters is a scroll bar where, user can scroll to different sectio
 
 Similarly, in this case user clicks on the breakfast section where we can see that respective dishes are displayed below.
 
-![Basic html](images/04.png)<br />
-
-
-
-![Basic html](images/05.png)<br />
-
-
-
 ![Basic html](images/06.png)<br />
 
 
